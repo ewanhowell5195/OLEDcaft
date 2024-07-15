@@ -1,1 +1,1 @@
-{"pack":{"pack_format":18,"description":"§8OLED§7craft\n§fBy Ewan Howell"}}
+{"pack":{"description":"§8OLED§7craft\n§fBy Ewan Howell","pack_format":34,"supported_formats":{"min_inclusive":16,"max_inclusive":34}},"overlays":{"entries":[{"directory":"16-28","formats":{"min_inclusive":16,"max_inclusive":28}}]}}
